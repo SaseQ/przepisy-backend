@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  przepisy-backend:
+    build: .
+    restart: always
+    ports:
+      - "8080:8080"
+    depends_on:
+      - mongo_db
+    environment:
+      - SPRING_DATA_MONGODB_URI=mongodb://mongo_db:27017/recipes
+    volumes:
+      - ./breakfast.json:/breakfast.json
+      - ./lunch.json:/lunch.json
+      - ./dessert.json:/dessert.json
+      - ./diner.json:/diner.json
+
+  mongo_db:
+    image: "mongo:latest"
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:

@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Spinach-Mushroom Scrambled Eggs",
+    "components": {
+      "eggs": "4",
+      "mushrooms": "100g",
+      "baby spinach": "100g",
+      "provolone cheese": "50g"
+    },
+    "instruction": "Sauté mushrooms in a pan until golden. Add spinach and cook until wilted. Add beaten eggs and cook until set. Top with cheese and serve.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2019/05/Spinach-Mushroom-Scrambled-Eggs.jpg"
+  },
+  {
+    "name": "Egg & Chorizo Wraps",
+    "components": {
+      "chorizo": "150g",
+      "eggs": "4",
+      "flour tortillas": "4"
+    },
+    "instruction": "Cook chorizo in a pan until browned. Add beaten eggs and scramble until fully cooked. Place mixture in tortillas and serve.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2019/05/Egg-Chorizo-Wraps.jpg"
+  },
+  {
+    "name": "Toad in a Hole",
+    "components": {
+      "eggs": "4",
+      "maple breakfast sausage links": "8",
+      "milk": "100ml",
+      "flour": "100g"
+    },
+    "instruction": "Preheat oven to 220°C. Arrange sausages in a baking dish. Mix milk, eggs, and flour to form a batter. Pour over sausages and bake until puffed and golden.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2019/05/Toad-in-a-Hole.jpg"
+  },
+  {
+    "name": "Blueberry Muffin French Toast",
+    "components": {
+      "blueberry muffins": "4",
+      "French vanilla nondairy creamer": "100ml",
+      "cinnamon": "1 tsp"
+    },
+    "instruction": "Slice muffins in half. Dip in a mixture of creamer and cinnamon. Cook on a griddle until golden brown on both sides.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2019/05/Blueberry-Muffin-French-Toast.jpg"
+  },
+  {
+    "name": "Avocado Toast",
+    "components": {
+      "avocado": "1",
+      "whole grain bread": "2 slices",
+      "salt": "to taste",
+      "pepper": "to taste"
+    },
+    "instruction": "Mash avocado with salt and pepper. Spread on toasted bread slices. Serve immediately.",
+    "type": "BREAKFAST",
+    "imageURL": "https://natashaskitchen.com/wp-content/uploads/2021/04/Avocado-Toast-4.jpg"
+  },
+  {
+    "name": "Green Smoothie",
+    "components": {
+      "spinach": "1 cup",
+      "banana": "1",
+      "Greek yogurt": "1/2 cup",
+      "almond milk": "1 cup"
+    },
+    "instruction": "Blend all ingredients until smooth. Pour into a glass and serve.",
+    "type": "BREAKFAST",
+    "imageURL": "https://natashaskitchen.com/wp-content/uploads/2021/03/Green-Smoothie-1.jpg"
+  },
+  {
+    "name": "Strawberry Smoothie",
+    "components": {
+      "strawberries": "1 cup",
+      "banana": "1",
+      "Greek yogurt": "1/2 cup",
+      "honey": "1 tbsp"
+    },
+    "instruction": "Blend all ingredients until smooth. Serve chilled.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.thekitchn.com/wp-content/uploads/2021/06/Strawberry-Smoothie-6.jpg"
+  },
+  {
+    "name": "Peanut Butter Banana Breakfast Pops",
+    "components": {
+      "Greek yogurt": "1 cup",
+      "bananas": "2",
+      "peanut butter": "2 tbsp"
+    },
+    "instruction": "Blend all ingredients until smooth. Pour into popsicle molds and freeze overnight.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.thekitchn.com/wp-content/uploads/2021/07/Peanut-Butter-Banana-Pops-4.jpg"
+  }
+]

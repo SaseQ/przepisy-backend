@@ -1,0 +1,122 @@
+[
+  {
+    "name": "White Chocolate Mousse",
+    "components": {
+      "white chocolate": "1 cup",
+      "heavy cream": "2 cups",
+      "vanilla extract": "1 tsp"
+    },
+    "instruction": "Melt the white chocolate in a double boiler. Whip the cream until stiff peaks form. Fold the melted chocolate and vanilla extract into the whipped cream. Chill before serving.",
+    "type": "DESSERT",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2020/12/White-Chocolate-Mousse_EXPS_THCA20_188830_B09_05_5b.jpg"
+  },
+  {
+    "name": "No-Bake Peanut Butter Oatmeal Bars",
+    "components": {
+      "peanut butter": "1 cup",
+      "honey": "1/2 cup",
+      "oats": "3 cups",
+      "chocolate chips": "1/2 cup"
+    },
+    "instruction": "Mix peanut butter and honey in a saucepan over low heat until melted. Remove from heat and stir in oats. Press into a pan and top with melted chocolate chips. Chill until firm.",
+    "type": "DESSERT",
+    "imageURL": "https://www.acouplecooks.com/wp-content/uploads/2020/09/No-Bake-Peanut-Butter-Oatmeal-Bars-007.jpg"
+  },
+  {
+    "name": "Vanilla Mug Cake",
+    "components": {
+      "flour": "1/4 cup",
+      "sugar": "2 tbsp",
+      "baking powder": "1/4 tsp",
+      "milk": "3 tbsp",
+      "vanilla extract": "1/4 tsp",
+      "butter": "2 tbsp"
+    },
+    "instruction": "Mix all ingredients in a mug until smooth. Microwave on high for 90 seconds. Let cool slightly before eating.",
+    "type": "DESSERT",
+    "imageURL": "https://www.acouplecooks.com/wp-content/uploads/2020/08/Vanilla-Mug-Cake-002.jpg"
+  },
+  {
+    "name": "No-Bake Strawberry Icebox Cake",
+    "components": {
+      "graham crackers": "2 packs",
+      "heavy cream": "2 cups",
+      "powdered sugar": "1/4 cup",
+      "strawberries": "2 cups"
+    },
+    "instruction": "Layer graham crackers, whipped cream (whipped with powdered sugar), and sliced strawberries in a dish. Repeat layers and chill for at least 4 hours before serving.",
+    "type": "DESSERT",
+    "imageURL": "https://www.thekitchn.com/wp-content/uploads/2020/05/Strawberry-Icebox-Cake-LEAD-3.jpg"
+  },
+  {
+    "name": "Easy Strawberry Sorbet",
+    "components": {
+      "strawberries": "4 cups",
+      "sugar": "1 cup",
+      "lemon juice": "1 tbsp"
+    },
+    "instruction": "Blend all ingredients until smooth. Pour into an ice cream maker and churn according to manufacturer’s instructions. Freeze until firm.",
+    "type": "DESSERT",
+    "imageURL": "https://www.acouplecooks.com/wp-content/uploads/2021/05/Strawberry-Sorbet-002.jpg"
+  },
+  {
+    "name": "Microwave Peanut Butter Fudge",
+    "components": {
+      "peanut butter": "1 cup",
+      "butter": "1/2 cup",
+      "powdered sugar": "2 cups"
+    },
+    "instruction": "Melt peanut butter and butter in the microwave. Stir in powdered sugar until smooth. Pour into a lined pan and chill until firm.",
+    "type": "DESSERT",
+    "imageURL": "https://insanelygoodrecipes.com/wp-content/uploads/2020/03/Peanut-Butter-Fudge-500x500.jpg"
+  },
+  {
+    "name": "Fluffy Key Lime Pie",
+    "components": {
+      "graham cracker crust": "1",
+      "sweetened condensed milk": "1 can",
+      "lime juice": "1/2 cup",
+      "whipped topping": "1 cup"
+    },
+    "instruction": "Mix condensed milk and lime juice until thickened. Fold in whipped topping. Pour into crust and chill until set.",
+    "type": "DESSERT",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2020/07/Fluffy-Key-Lime-Pie_EXPS_SBZ19_7578_B09_20_4b.jpg"
+  },
+  {
+    "name": "Chocolate Lava Mug Cake",
+    "components": {
+      "flour": "4 tbsp",
+      "sugar": "4 tbsp",
+      "cocoa powder": "2 tbsp",
+      "baking powder": "1/4 tsp",
+      "milk": "3 tbsp",
+      "vegetable oil": "2 tbsp",
+      "vanilla extract": "1/4 tsp"
+    },
+    "instruction": "Mix all ingredients in a mug until smooth. Microwave on high for 70-90 seconds until the cake is just set. Let cool slightly before eating.",
+    "type": "DESSERT",
+    "imageURL": "https://insanelygoodrecipes.com/wp-content/uploads/2020/12/Mug-Cake-683x1024.jpg"
+  },
+  {
+    "name": "Affogato",
+    "components": {
+      "vanilla ice cream": "1 cup",
+      "espresso": "1 shot"
+    },
+    "instruction": "Scoop ice cream into a bowl. Pour hot espresso over the top and serve immediately.",
+    "type": "DESSERT",
+    "imageURL": "https://www.acouplecooks.com/wp-content/uploads/2020/01/Affogato-001.jpg"
+  },
+  {
+    "name": "Easy Fresh Strawberry Pie",
+    "components": {
+      "strawberries": "4 cups",
+      "sugar": "1 cup",
+      "cornstarch": "3 tbsp",
+      "pie crust": "1"
+    },
+    "instruction": "Mix sugar and cornstarch in a saucepan. Add strawberries and cook until thickened. Pour into baked pie crust and chill until set.",
+    "type": "DESSERT",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Easy-Fresh-Strawberry-Pie_EXPS_TMBSTSS23_42007_DR_09_09_3b-3.jpg"
+  }
+]
