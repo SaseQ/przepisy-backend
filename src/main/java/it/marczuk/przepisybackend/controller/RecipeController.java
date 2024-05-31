@@ -7,10 +7,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.boot.context.event.ApplicationReadyEvent;
 import org.springframework.context.event.EventListener;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequiredArgsConstructor
@@ -20,6 +17,7 @@ public class RecipeController {
     private final RecipeService recipeService;
 
     @GetMapping("/random")
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     public ResponseEntity<Recipe> getRecipeByType(@RequestParam String type) {
         RecipeType recipeType;
         try {
