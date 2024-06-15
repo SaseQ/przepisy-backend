@@ -4,8 +4,6 @@ import it.marczuk.przepisybackend.model.Recipe;
 import it.marczuk.przepisybackend.repository.RecipeType;
 import it.marczuk.przepisybackend.service.RecipeService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.boot.context.event.ApplicationReadyEvent;
-import org.springframework.context.event.EventListener;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -27,11 +25,5 @@ public class RecipeController {
         }
         Recipe recipe = recipeService.getRandomRecipe(recipeType);
         return ResponseEntity.ok(recipe);
-    }
-
-    @EventListener(ApplicationReadyEvent.class)
-    public void initActions() {
-        recipeService.deleteAllRecipes();
-        recipeService.addAllRecipes();
     }
 }
