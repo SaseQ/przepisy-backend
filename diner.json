@@ -153,5 +153,123 @@
     "instruction": "Cook ground beef with taco seasoning until browned. Warm tortillas in a pan. Assemble tacos by adding beef, lettuce, cheese, sour cream, and salsa to tortillas.",
     "type": "DINNER",
     "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Beef-Tacos_EXPS_SBZ20_13376_B05_21_6b.jpg"
+  },
+  {
+    "name": "Eggplant Parmesan",
+    "components": {
+      "eggplant": "2",
+      "all-purpose flour": "1 cup",
+      "eggs": "3",
+      "breadcrumbs": "2 cups",
+      "marinara sauce": "2 cups",
+      "mozzarella cheese": "2 cups",
+      "Parmesan cheese": "1 cup",
+      "fresh basil": "1/4 cup"
+    },
+    "instruction": "Slice eggplant and dredge in flour, beaten eggs, and breadcrumbs. Bake until golden, then layer with marinara sauce and cheeses. Bake until bubbly and golden.",
+    "type": "DINNER",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8nxNQo6LFwJdep9OFLF1FHpbvbVQQdnOdQ&s"
+  },
+  {
+    "name": "Chicken Fajitas",
+    "components": {
+      "chicken breasts": "4",
+      "bell peppers": "3",
+      "onion": "1",
+      "fajita seasoning": "2 tablespoons",
+      "tortillas": "8",
+      "olive oil": "2 tablespoons"
+    },
+    "instruction": "Slice chicken, peppers, and onion. Sauté in olive oil with fajita seasoning until cooked. Serve with tortillas.",
+    "type": "DINNER",
+    "imageURL": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/02/Chicken-Fajitas-7.jpg"
+  },
+  {
+    "name": "Beef Stroganoff",
+    "components": {
+      "beef sirloin": "1 pound",
+      "mushrooms": "2 cups",
+      "onion": "1",
+      "beef broth": "2 cups",
+      "sour cream": "1 cup",
+      "egg noodles": "12 ounces",
+      "butter": "2 tablespoons",
+      "all-purpose flour": "2 tablespoons"
+    },
+    "instruction": "Cook beef and set aside. Sauté onions and mushrooms, add flour, then broth. Stir in sour cream and beef. Serve over noodles.",
+    "type": "DINNER",
+    "imageURL": "https://www.allrecipes.com/thmb/mSWde3PHTu-fDkbvWBw0D1JlS8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/25202beef-stroganoff-iii-ddmfs-3x4-233-0f26fa477e9c446b970a32502468efc6.jpg"
+  },
+  {
+    "name": "Shrimp Scampi",
+    "components": {
+      "shrimp": "1 pound",
+      "garlic": "4 cloves",
+      "lemon juice": "1/4 cup",
+      "white wine": "1/2 cup",
+      "butter": "4 tablespoons",
+      "parsley": "1/4 cup",
+      "angel hair pasta": "12 ounces"
+    },
+    "instruction": "Cook shrimp in butter with garlic, add lemon juice and wine. Toss with cooked pasta and parsley.",
+    "type": "DINNER",
+    "imageURL": "https://static01.nyt.com/images/2022/06/02/dining/ShrimpScampi_thumb/ShrimpScampi_thumb-square640.jpg"
+  },
+  {
+    "name": "Turkey Scallopini",
+    "components": {
+      "turkey cutlets": "1 pound",
+      "flour": "1/2 cup",
+      "lemon juice": "1/4 cup",
+      "chicken broth": "1 cup",
+      "capers": "2 tablespoons",
+      "butter": "2 tablespoons"
+    },
+    "instruction": "Dredge turkey in flour, cook in butter. Add broth, lemon juice, and capers. Simmer until sauce thickens.",
+    "type": "DINNER",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Turkey-Scallopini_EXPS_SDAM19_12514_B12_11_2b-4.jpg"
+  },
+  {
+    "name": "Weeknight Ravioli Lasagna",
+    "components": {
+      "frozen ravioli": "1 pound",
+      "marinara sauce": "2 cups",
+      "mozzarella cheese": "2 cups",
+      "Parmesan cheese": "1 cup",
+      "ground beef": "1 pound",
+      "onion": "1",
+      "garlic": "3 cloves"
+    },
+    "instruction": "Layer cooked beef with ravioli, marinara, and cheeses in a baking dish. Bake until bubbly.",
+    "type": "DINNER",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2017/09/exps55577_TH153343C04_23_7b.jpg"
+  },
+  {
+    "name": "Chicken with Couscous",
+    "components": {
+      "chicken breasts": "4",
+      "roasted garlic couscous": "1 package",
+      "cherry tomatoes": "1 cup",
+      "cucumber": "1",
+      "feta cheese": "1/2 cup",
+      "olive oil": "2 tablespoons"
+    },
+    "instruction": "Cook chicken and slice. Prepare couscous according to package. Toss with tomatoes, cucumber, feta, and olive oil. Serve with chicken.",
+    "type": "DINNER",
+    "imageURL": "https://www.themediterraneandish.com/wp-content/uploads/2021/10/chicken-couscous-recipe-9.jpg"
+  },
+  {
+    "name": "One-Pot Garlicky Shrimp & Broccoli",
+    "components": {
+      "shrimp": "1 pound",
+      "broccoli": "2 cups",
+      "garlic": "4 cloves",
+      "lemon juice": "1/4 cup",
+      "olive oil": "2 tablespoons",
+      "rice": "2 cups"
+    },
+    "instruction": "Cook shrimp and broccoli with garlic and olive oil. Add lemon juice and serve over rice.",
+    "type": "DINNER",
+    "imageURL": "https://www.eatingwell.com/thmb/VD6DhAkD3FoWOVpZcsUkIYgvPBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PotGarlickyShrimpBroccoli-SQ-95ee759b3ece49aca15e56d4de20fff1.jpg"
   }
 ]
