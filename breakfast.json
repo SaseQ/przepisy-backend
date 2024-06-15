@@ -91,5 +91,110 @@
     "instruction": "Blend all ingredients until smooth. Pour into popsicle molds and freeze overnight.",
     "type": "BREAKFAST",
     "imageURL": "https://www.thekitchn.com/wp-content/uploads/2021/07/Peanut-Butter-Banana-Pops-4.jpg"
+  },
+  {
+    "name": "Lemon Ricotta Pancakes",
+    "components": {
+      "ricotta cheese": "1 cup",
+      "lemon zest": "1 tablespoon",
+      "all-purpose flour": "1 cup",
+      "milk": "1/2 cup",
+      "eggs": "2"
+    },
+    "instruction": "In a bowl, mix ricotta, lemon zest, flour, milk, and eggs until smooth. Cook on a hot griddle until golden brown.",
+    "type": "BREAKFAST",
+    "imageURL": "https://bakerbynature.com/wp-content/uploads/2016/03/IMG_8514-5-2.jpg"
+  },
+  {
+    "name": "Classic French Toast",
+    "components": {
+      "bread slices": "6",
+      "eggs": "2",
+      "milk": "1/2 cup",
+      "ground cinnamon": "1 teaspoon",
+      "vanilla extract": "1 teaspoon"
+    },
+    "instruction": "Whisk together eggs, milk, cinnamon, and vanilla. Dip bread slices in mixture and cook on a hot griddle until golden brown.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.marthastewart.com/thmb/54eLc4YdxlS5hUnIUz8j6OPkGrs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-333918-classic-french-toast-hero-horiz-0623-7cf4d80fdab14270aa20240cdc37f15b.jpg"
+  },
+  {
+    "name": "Healthy Green Smoothie",
+    "components": {
+      "fresh spinach": "1 cup",
+      "banana": "1",
+      "unsweetened almond milk": "1 cup",
+      "chia seeds": "1 tablespoon",
+      "honey": "1 teaspoon"
+    },
+    "instruction": "Blend spinach, banana, almond milk, chia seeds, and honey until smooth. Serve immediately.",
+    "type": "BREAKFAST",
+    "imageURL": "https://joyfoodsunshine.com/wp-content/uploads/2019/07/green-smoothie-recipe-2.jpg"
+  },
+  {
+    "name": "Spinach-Feta Frittata",
+    "components": {
+      "eggs": "6",
+      "fresh spinach": "2 cups",
+      "feta cheese": "1/2 cup",
+      "onion": "1",
+      "olive oil": "2 tablespoons"
+    },
+    "instruction": "Sauté onion and spinach in olive oil. Whisk eggs and pour over spinach mixture. Sprinkle with feta and cook until set.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.eatingwell.com/thmb/U2dxyDpxdKLMcvpjaSzedCh5eVU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SpinachandFetaFritatta-RM-0619-2000-afcb5c551b8a40eeb5f4e28cff5b46d6.jpg"
+  },
+  {
+    "name": "Blueberry Muffins",
+    "components": {
+      "all-purpose flour": "2 cups",
+      "granulated sugar": "1 cup",
+      "baking powder": "2 teaspoons",
+      "fresh blueberries": "1 cup",
+      "milk": "1 cup",
+      "eggs": "2"
+    },
+    "instruction": "Mix dry ingredients. Add milk and eggs, then fold in blueberries. Bake at 375°F for 20 minutes.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.inspiredtaste.net/wp-content/uploads/2023/11/Easy-Blueberry-Muffin-Recipe-Video.jpg"
+  },
+  {
+    "name": "Omelette with Greens",
+    "components": {
+      "eggs": "3",
+      "fresh spinach": "1 cup",
+      "sliced mushrooms": "1/2 cup",
+      "shredded cheese": "1/4 cup",
+      "olive oil": "1 tablespoon"
+    },
+    "instruction": "Sauté spinach and mushrooms in olive oil. Whisk eggs and pour into pan. Add cheese and cook until set.",
+    "type": "BREAKFAST",
+    "imageURL": "https://hips.hearstapps.com/hmg-prod/images/classic-omelet-and-greens-1620053131.jpg"
+  },
+  {
+    "name": "Avocado Toast",
+    "components": {
+      "bread slices": "2",
+      "ripe avocado": "1",
+      "lemon juice": "1 teaspoon",
+      "salt": "to taste",
+      "black pepper": "to taste"
+    },
+    "instruction": "Mash avocado with lemon juice, salt, and pepper. Spread on toasted bread.",
+    "type": "BREAKFAST",
+    "imageURL": "https://www.eatingbirdfood.com/wp-content/uploads/2023/12/avocado-toast-hero-cropped.jpg"
+  },
+  {
+    "name": "Peanut Butter Oatmeal",
+    "components": {
+      "old-fashioned oats": "1 cup",
+      "milk": "2 cups",
+      "peanut butter": "2 tablespoons",
+      "banana": "1",
+      "honey": "1 tablespoon"
+    },
+    "instruction": "Cook oats in milk. Stir in peanut butter and honey. Top with sliced banana.",
+    "type": "BREAKFAST",
+    "imageURL": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2021-09-peanut-butter-oatmeal%2F2021-09-13_ATK6875"
   }
 ]
