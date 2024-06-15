@@ -139,5 +139,108 @@
     "instruction": "Hard boil eggs and dice. Mix with mashed avocado, lemon juice, salt, and pepper. Serve on toasted bread.",
     "type": "LUNCH",
     "imageURL": "https://www.thekitchn.com/wp-content/uploads/2020/01/egg-avocado-toast.jpg"
+  },
+  {
+    "name": "Southwestern Pork Salad",
+    "components": {
+      "cooked pork loin": "2 cups",
+      "kidney beans": "1 can",
+      "onion": "1",
+      "green bell pepper": "1",
+      "tomato": "1"
+    },
+    "instruction": "Combine all ingredients in a bowl and mix well. Serve chilled.",
+    "type": "LUNCH",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6CA2AhXFniqG7H9bQ9X7M0hL6t4dFE26bg&s"
+  },
+  {
+    "name": "Dilly Chickpea Salad Sandwiches",
+    "components": {
+      "canned chickpeas": "1 can",
+      "onion": "1",
+      "celery": "2 stalks",
+      "fresh dill": "2 tablespoons",
+      "mayonnaise": "1/2 cup",
+      "multigrain bread": "8 slices"
+    },
+    "instruction": "Mash chickpeas and mix with onion, celery, dill, and mayonnaise. Spread on bread slices and serve.",
+    "type": "LUNCH",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2020/02/Dilly-Chickpea-Salad-Sandwiches_EXPS_TOHJJ20_190103_B02_06_10b.jpg?fit=700%2C1024"
+  },
+  {
+    "name": "Focaccia Sandwiches",
+    "components": {
+      "focaccia bread": "1 loaf",
+      "deli ham": "4 slices",
+      "deli turkey": "4 slices",
+      "hard salami": "4 slices",
+      "provolone cheese": "4 slices"
+    },
+    "instruction": "Layer meats and cheese on focaccia bread, slice and serve.",
+    "type": "LUNCH",
+    "imageURL": "https://vikalinka.com/wp-content/uploads/2023/07/Italian-focaccia-sandwich-3-Edit.jpg"
+  },
+  {
+    "name": "Avocado Tuna Salad",
+    "components": {
+      "ripe avocado": "1",
+      "canned tuna": "1 can",
+      "red onion": "1/4",
+      "celery": "1 stalk",
+      "lemon juice": "1 tablespoon"
+    },
+    "instruction": "Mash avocado and mix with tuna, diced onion, celery, and lemon juice. Serve with crackers or in lettuce wraps.",
+    "type": "LUNCH",
+    "imageURL": "https://www.eatingwell.com/thmb/D1iahUFGe68dfoITIQQ9Fu_dtCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/avocado-tuna-salad-8c192192175c4e9bb6d55300dd842fbe.jpg"
+  },
+  {
+    "name": "Grilled Steak Bruschetta Salad",
+    "components": {
+      "beef tenderloin steaks": "2",
+      "Italian bread": "4 slices",
+      "fresh arugula": "2 cups",
+      "bruschetta topping": "1 cup"
+    },
+    "instruction": "Grill steaks to desired doneness. Serve on toasted bread with arugula and bruschetta topping.",
+    "type": "LUNCH",
+    "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Grilled-Steak-Bruschetta-Salad-for-2_EXPS_CF2BZ20_46392_B12_06_2b-1.jpg"
+  },
+  {
+    "name": "Quesadillas",
+    "components": {
+      "flour tortillas": "4",
+      "shredded cheese": "1 cup",
+      "leftover chicken": "1 cup",
+      "ripe avocado": "1",
+      "pico de gallo": "1/2 cup"
+    },
+    "instruction": "Place cheese and chicken on tortillas, fold and cook until cheese is melted. Serve with avocado and pico de gallo.",
+    "type": "LUNCH",
+    "imageURL": "https://www.kikkoman.pl/fileadmin/_processed_/8/1/csm_1056-recipe-page-Easy-cheese-quesadillas-with-mushrooms_mobile_b0b03cf7a9.webp"
+  },
+  {
+    "name": "Falafel Tabbouleh Bowls with Tzatziki",
+    "components": {
+      "falafel": "1 cup",
+      "tabbouleh": "1 cup",
+      "tzatziki sauce": "1/2 cup",
+      "mixed greens": "2 cups"
+    },
+    "instruction": "Combine falafel, tabbouleh, and mixed greens in a bowl. Drizzle with tzatziki sauce and serve.",
+    "type": "LUNCH",
+    "imageURL": "https://www.eatingwell.com/thmb/TxWfSQ9qO8fXToA7UtAuQovKfYw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7473649-382eb57f1fa3416398b321eab0f0fa6c.jpg"
+  },
+  {
+    "name": "Vegetarian Chickpea Sandwich Filling",
+    "components": {
+      "canned chickpeas": "1 can",
+      "lemon juice": "2 tablespoons",
+      "fresh dill": "2 tablespoons",
+      "celery": "2 stalks",
+      "mayonnaise": "1/2 cup"
+    },
+    "instruction": "Mash chickpeas and mix with lemon juice, dill, celery, and mayonnaise. Serve on bread or in lettuce wraps.",
+    "type": "LUNCH",
+    "imageURL": "https://www.wearesovegan.com/wp-content/uploads/2021/11/veganchickpeamasalasandwichrecipeh2.jpg"
   }
 ]
