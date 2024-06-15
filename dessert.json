@@ -118,5 +118,138 @@
     "instruction": "Mix sugar and cornstarch in a saucepan. Add strawberries and cook until thickened. Pour into baked pie crust and chill until set.",
     "type": "DESSERT",
     "imageURL": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Easy-Fresh-Strawberry-Pie_EXPS_TMBSTSS23_42007_DR_09_09_3b-3.jpg"
+  },
+  {
+    "name": "Strawberry Pretzel Salad",
+    "components": {
+      "crushed pretzels": "2 cups",
+      "sugar": "3/4 cup",
+      "butter": "3/4 cup",
+      "cream cheese": "8 ounces",
+      "frozen whipped topping": "8 ounces",
+      "strawberry gelatin": "6 ounces",
+      "boiling water": "2 cups",
+      "frozen strawberries": "16 ounces"
+    },
+    "instruction": "Mix pretzels, sugar, and melted butter; press into a pan and bake. Combine cream cheese and whipped topping, spread over pretzel layer. Dissolve gelatin in boiling water, add strawberries, and pour over cream cheese layer. Chill until set.",
+    "type": "DESSERT",
+    "imageURL": "https://www.spendwithpennies.com/wp-content/uploads/2023/10/1200-Strawberry-Pretzel-Salad-2-SpendWithPennies.jpg"
+  },
+  {
+    "name": "Homemade Chocolate Pudding",
+    "components": {
+      "sugar": "3/4 cup",
+      "cocoa powder": "1/4 cup",
+      "cornstarch": "3 tablespoons",
+      "salt": "1/4 teaspoon",
+      "milk": "2 3/4 cups",
+      "butter": "2 tablespoons",
+      "vanilla extract": "1 teaspoon"
+    },
+    "instruction": "In a saucepan, combine sugar, cocoa, cornstarch, and salt. Gradually stir in milk and cook until thickened. Remove from heat, add butter and vanilla. Pour into individual dishes and chill.",
+    "type": "DESSERT",
+    "imageURL": "https://www.spendwithpennies.com/wp-content/uploads/2018/08/Horizon-Organic-SpendWithPennies-Chocolate-Pudding-21.jpg"
+  },
+  {
+    "name": "3-Ingredient Peanut Butter Cookies",
+    "components": {
+      "peanut butter": "1 cup",
+      "sugar": "1 cup",
+      "egg": "1"
+    },
+    "instruction": "Mix all ingredients together. Roll into balls, place on a baking sheet, and flatten with a fork. Bake at 350°F for 10 minutes.",
+    "type": "DESSERT",
+    "imageURL": "https://www.allrecipes.com/thmb/AFljAffak2q0sNBVPvxMEKsFz9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244614-3-ingredient-peanut-butter-cookies-DDMFS-4x3-3df34040153d43bc9c8e566fb311a88e.jpg"
+  },
+  {
+    "name": "German Chocolate Cake",
+    "components": {
+      "sweet chocolate": "4 ounces",
+      "boiling water": "1/2 cup",
+      "butter": "1 cup",
+      "sugar": "2 cups",
+      "egg yolks": "4",
+      "all-purpose flour": "2 1/2 cups",
+      "baking soda": "1 teaspoon",
+      "salt": "1/2 teaspoon",
+      "buttermilk": "1 cup",
+      "vanilla extract": "1 teaspoon",
+      "egg whites": "4"
+    },
+    "instruction": "Melt chocolate in boiling water. Cream butter and sugar, add egg yolks. Add melted chocolate and vanilla. Alternately add flour mixture and buttermilk. Fold in beaten egg whites. Pour into pans and bake.",
+    "type": "DESSERT",
+    "imageURL": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/05/German-Chocolate-Cake-3-1.jpg"
+  },
+  {
+    "name": "Black Bottom Cupcakes",
+    "components": {
+      "cream cheese": "8 ounces",
+      "egg": "1",
+      "sugar": "1 cup",
+      "mini chocolate chips": "1 cup",
+      "all-purpose flour": "1 1/2 cups",
+      "cocoa powder": "1/4 cup",
+      "baking soda": "1 teaspoon",
+      "salt": "1/2 teaspoon",
+      "water": "1 cup",
+      "vegetable oil": "1/3 cup",
+      "vinegar": "1 tablespoon",
+      "vanilla extract": "1 teaspoon"
+    },
+    "instruction": "Mix cream cheese, egg, sugar, and chocolate chips. Combine dry ingredients, add wet ingredients, and mix. Fill cupcake liners with chocolate batter, top with cream cheese mixture. Bake at 350°F for 25 minutes.",
+    "type": "DESSERT",
+    "imageURL": "https://www.allrecipes.com/thmb/E_UDV7Aov5Q12MuAht1HvMrsaEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8905301-cdb5d4d2b761403fac4c5d556078fa8f.jpg"
+  },
+  {
+    "name": "Apple-Cider Doughnut Cake",
+    "components": {
+      "all-purpose flour": "3 cups",
+      "baking powder": "1 tablespoon",
+      "salt": "1/2 teaspoon",
+      "ground cinnamon": "1 teaspoon",
+      "ground nutmeg": "1/2 teaspoon",
+      "apple cider": "1 1/4 cups",
+      "butter": "1/2 cup",
+      "sugar": "1 cup",
+      "eggs": "3",
+      "vanilla extract": "1 teaspoon"
+    },
+    "instruction": "Combine dry ingredients. Mix cider, butter, sugar, eggs, and vanilla. Combine wet and dry ingredients, pour into a Bundt pan, and bake. Coat with cinnamon-sugar mixture after baking.",
+    "type": "DESSERT",
+    "imageURL": "https://princesspinkygirl.com/wp-content/uploads/2020/08/Apple-Cider-Doughnut-Cake-Square.jpg"
+  },
+  {
+    "name": "Pumpkin Cupcakes",
+    "components": {
+      "all-purpose flour": "1 1/2 cups",
+      "baking powder": "1 teaspoon",
+      "baking soda": "1/2 teaspoon",
+      "ground cinnamon": "1 teaspoon",
+      "ground ginger": "1/2 teaspoon",
+      "ground nutmeg": "1/4 teaspoon",
+      "salt": "1/4 teaspoon",
+      "pumpkin puree": "1 cup",
+      "sugar": "1 cup",
+      "vegetable oil": "1/2 cup",
+      "eggs": "2"
+    },
+    "instruction": "Mix dry ingredients. Combine pumpkin, sugar, oil, and eggs. Add dry ingredients to wet ingredients. Pour into cupcake liners and bake. Frost with cream cheese frosting.",
+    "type": "DESSERT",
+    "imageURL": "https://sallysbakingaddiction.com/wp-content/uploads/2017/09/best-pumpkin-cupcakes.jpg"
+  },
+  {
+    "name": "Lemon Cheesecake",
+    "components": {
+      "graham cracker crumbs": "1 1/2 cups",
+      "sugar": "1 cup",
+      "butter": "1/3 cup",
+      "cream cheese": "3 packages",
+      "lemon juice": "1/4 cup",
+      "lemon zest": "1 tablespoon",
+      "eggs": "3"
+    },
+    "instruction": "Mix graham cracker crumbs, sugar, and butter. Press into pan. Beat cream cheese, sugar, lemon juice, and zest. Add eggs one at a time. Pour over crust and bake.",
+    "type": "DESSERT",
+    "imageURL": "https://www.giallozafferano.com/images/237-23777/Lemon-cheesecake_1200x800.jpg"
   }
 ]
